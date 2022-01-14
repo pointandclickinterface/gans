@@ -1,5 +1,7 @@
 # Generative Adversarial Networks #
 
+Generative Adversarial Networks or GANs in a nutshell are a type of deep learning model in which two neural networks (the Generator and the Descrminator) compete against eachother in a sort of zero sum game. The Generator network generates content from randomness and improves upon it until it can reasonably convice the Descrimiator that it matches the training input.
+
 This is my repo where I keep the GANs I have made.
 
 I make them as ipynb files to allow for easy reading of them but a future goal is to make regular python modules out of them to make them more usable/object oriented in the future.
